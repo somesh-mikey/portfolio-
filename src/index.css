@@ -45,6 +45,7 @@
 }
 
 @keyframes bounce {
+
   0%,
   100% {
     transform: translateY(-75%);
@@ -93,6 +94,7 @@
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   transition-duration: 300ms;
 }
+
 *:focus-visible {
   outline: 2px solid #3b82f6;
   outline-offset: 2px;
