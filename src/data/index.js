@@ -31,7 +31,7 @@ export const socialIcons = [
   },
 ];
 
-export const aboutText = `Dynamic and enthusiastic professional with a proactive approach to embracing challenges and adapting to diverse environments. As a university student, I am eager to leverage my skills and experiences to contribute meaningfully in a professional setting. I actively seek opportunities that will allow me to develop my capabilities and fully realize my potential, while bringing value to the team and organization.`;
+export const aboutText = "\u00A0\u00A0\u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0 \u00A0  Enthusiastic university student eager to learn, grow, and contribute in a professional setting. I embrace challenges, adapt quickly, and strive to add value to any team.";
 
 export const skillCards = [
   {
