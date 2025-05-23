@@ -46,8 +46,8 @@ This is my personal portfolio website, where I showcase my skills, projects, and
 
 This project is licensed under the MIT License.
 
----
-
 ## Deployment
 
 The project can be viewed live here: https://portfolio-2ln1.vercel.app/
+
+---
